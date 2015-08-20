@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/statico
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.langworth.com
+  * I am statico (https://keybase.io/statico) on keybase.
+  * I have a public key with fingerprint B84E 0DE5 E4C2 5128 5B0B  39C0 6704 627B C76D BFA8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b84e0de5e4c251285b0b39c06704627bc76dbfa8",
+            "host": "keybase.io",
+            "key_id": "6704627bc76dbfa8",
+            "kid": "0101d5147617a074901075fbe79aa86f55614dc0867f3777f86cebea98cd45bc3eac0a",
+            "uid": "7b617cae741213abe068598052fc3700",
+            "username": "statico"
+        },
+        "revoke": {
+            "sig_ids": [
+                "774b7b6341edc0b365e322d23b0a7867c8373a13bece451b7fb694f4a5ec7d220f"
+            ]
+        },
+        "service": {
+            "hostname": "www.langworth.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1440045339,
+    "expire_in": 157680000,
+    "prev": "371d39f65b1e545ef866c5f0ba46a6c8c8407d47e133df8b35c976e80408deba",
+    "seqno": 20,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtkm2IVUUYx89Ni/ViuNH90IpEDZEh223OmZkzc24WFi1psu2uUBFRt5k5z7l7
+uLv33M453psu9kLGuq14S3E/7OYLFWVCkK61CmZY1Iq6HxSUAhExwq2g9FMvJDXn
+Yt+aL8M8z39+z5//zNu3LrDyucpCNTI7/OW+3KmflPXUuWfvGkEq8jeg0giqQnsL
+wloF4noc1lJUQkpQwD4woNphtiOYwop4GrscU9fhSnPXV4EUqBsNRkl2w2CUTKAY
+RqZmDuXQN9X/0VfbDWxj22c25a7NJebUMwXOAgXck1K4AWOuTX2NhcsDwjkPhKtB
+gfSE9ilTmoDUWBrc+jaOK8PREji1HZtIBdgVzBOYOYEmHONMmEBck8Ng1Ekq01BH
+aFM3iqERVSELIAkrxnOCSs8hzqkyREJtMBYUcRkQx/EdorDkxpEWhBNpEwUaKLMV
+D5Tr0YBKBpr7joMD9Lxhm4GNULfhWUg3hjebzeKQrFWaUZwOFnU0bLzV4yiNdDRk
+2oNpWi9lztIN9bYcVPkGqKzCmm+eyVxoQJyEUQ2VbKPUaZiRbUoxpowQrxvBy/Uw
+hnKYKRh3BTYrGwMNpEqIcNsnXuAyZQOjDEy4rmYBVpK60tVCC4q5TznYhPiBUIRp
+j7sgMMXCB5XFnsBLtQiVHENNZSXLNKzUZLo+BrQpP5ZbttDK5a1bbr4p+2tWflHn
+fx+wv9Jh7T48t/vBna1Hexf7W9bKcLY8vvK+K/0zd/cWJq5t31cpHd/7yOjVqemu
+11+Y+NgZHD2cI4/1TX0WDuzYOHZu3cwPn/RMvzrf1/nPtyfHL6x8eJfVWGVd36O/
+6u3Yvm7J8dd27FxmHbr32sn9v89/J8buOZNbcVV1Ld/Ys1o/EeZW7/lgQbw437+q
+Onng7PItryz95e9C82Lhi0N9JwoXhlDX5a8H5NFTz9zR+UCxY/LJ+z+a/PTXx/+8
+/fpoYbj3GP3jw4Ofv/H95vfG1654Z6RVPHbnz98s/W3bleTd1q6/jkwcmH1x/8G3
+NrdOv5/+2Jy7PH12aLT69Jl5WHPp/LaBYEl56raHtq55c65na2vmXw==
+=rrVq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/statico
+
+==================================================================
